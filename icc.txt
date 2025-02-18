@@ -1,2 +1,5 @@
 a=b+c
 c=d+e
+
+echo "addition is happening fine"
+echo "substraction is working fine"
